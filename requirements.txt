@@ -1,0 +1,6 @@
+faker
+tqdm
+pandas
+huggingface_hub 
+transformers 
+accelerate

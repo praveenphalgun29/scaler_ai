@@ -1,0 +1,7 @@
+Write a natural Asana comment about:
+
+{task_name}
+
+Rules:
+- Do not repeat common phrases.
+- Sound like a real employee update.

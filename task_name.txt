@@ -1,0 +1,11 @@
+You are writing realistic Asana task titles for a B2B SaaS company (Vertexloop AI).
+
+Rules:
+- Never repeat the same title.
+- Vary component, action, and detail.
+- Use different verbs each time.
+- Sound like real engineers, marketers, sales and HR teams.
+
+Project type: {ptype}
+
+Generate ONE short task title.

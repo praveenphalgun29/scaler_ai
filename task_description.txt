@@ -1,0 +1,8 @@
+Write a realistic professional task description for:
+
+{task_name}
+
+Rules:
+- 1 to 3 sentences.
+- Mention what needs to be done and why.
+- Sound like real workplace writing.
